@@ -24,6 +24,6 @@ Senior Full Stack Engineer with 6+ years of experience architecting high-availab
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=rafamiziara&show_icons=true&theme=dark" alt="Rafael's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rafamiziara&show_icons=true&hide_rank=true&hide=stars,contribs&theme=dark" alt="Rafael's GitHub Stats" width="48%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafamiziara&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
